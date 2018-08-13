@@ -28,7 +28,7 @@
     * get() and show data from firebase db
 
     * memory clean
-    * external page refresh save's login data for 60min
+    * accidental page refresh scenario handling login data for 60min
 
     * react-router
     * react-router-dom:
